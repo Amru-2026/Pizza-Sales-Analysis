@@ -219,7 +219,7 @@ The SQL results were validated and visualized in Power BI to create an interacti
 
 ## 7. Dashboard Preview
 
-![Pizza Sales Dashboard]( )
+![Pizza Sales Dashboard](http://github.com/Amru-2026/Pizza-Sales-Analysis/blob/main/Dashbaord_Image.pdf)
 
 ---
 
